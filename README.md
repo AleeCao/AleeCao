@@ -1,7 +1,7 @@
 # Hi, I’m Alexis Cao 👋
-I'm a junior SRE, highly interested in developing and implementing automated cloud-based solutions. 
+I'm a junior DevOps, highly interested in developing and implementing automated cloud-based solutions. 
 
-I have knowledge in language programmes such as C and Python and in leading cloud platforms such as AWS. I design and implement reliable cloud infrastructure.
+I have knowledge in language programmes such as C, Python and Golang and in leading cloud platforms such as AWS. I design and implement reliable cloud infrastructure.
 I would like to put my abilities to work in a professional environment to keep growing in this field.
 
 # Skills
