@@ -1,5 +1,5 @@
 # Hi, I’m Alexis Cao 👋
-I'm a junior Backend, highly interested in developing and implementing backend based on microservices. 
+I'm a junior Backend, highly interested in developing and implementing microservice architecture. 
 
 I am a System Engineer student who is interested in back-end software development and implement. I have experience in programing languages such as C; Python and Node js. (express and NestJS freamework). I have also knowledge in deployment, CI/CD tools and Cloud Services (AWS). I would like to test my skills in a environment that could allow me to grow professionally. 
 
