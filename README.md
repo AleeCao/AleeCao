@@ -1,15 +1,15 @@
 # Hi, I’m Alexis Cao 👋
-I'm a junior DevOps, highly interested in developing and implementing automated cloud-based solutions. 
+I'm a junior Backend, highly interested in developing and implementing microservices. 
 
-I have knowledge in language programmes such as C, Python and Golang and in leading cloud platforms such as AWS. I design and implement reliable cloud infrastructure.
-I would like to put my abilities to work in a professional environment to keep growing in this field.
+I am a System Engineer student who is interested in back-end software development and implement. I have experience in programing languages such as C; Python and Node js. (express and NestJS freamework). I have also knowledge in deployment, CI/CD tools and Cloud Services (AWS). I would like to test my skills in a environment that could allow me to grow professionally. 
 
 # Skills
 - Docker (CLI - Compose)
 - Linux System Administration
-- Cloud computing platforms (AWS)
-- CI/CD pipelines (Jenkins, GitLab)
-- Containerization (Docker, Kubernetes)
+- Node.js (express, NestJS)
+- SQL (SQLite, MySQL, PostgreSQL)
+- NoSQL (MongoDB)
+- Version control (Git)
 - Adaptability and Flexibility
 - Continuous Learning and Improvement
 
