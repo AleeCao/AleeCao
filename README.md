@@ -1,20 +1,19 @@
-# Hi, I’m Alexis Cao 👋
-I'm a junior Backend, highly interested in developing and implementing microservices architecture. 
+# Hi, I’m Alexis Cao
+I am a motivated System Engineering student with strong foundations in backend 
+development. Experienced in Go and Python, REST API design, and SQL databases. Hands-
+on experience with Docker, Git, and AWS in academic and freelance projects.
 
-I am a System Engineer student who is interested in back-end software development and implement. I have experience in programing languages such as C; Python and Node js. (express and NestJS freamework). I have also knowledge in deployment, CI/CD tools and Cloud Services (AWS). I would like to test my skills in a environment that could allow me to grow professionally. 
+## Skills
+- Languages Go, Python, JavaScript (Express)
+- Databases: MySQL, PostgreSQL, SQLite
+- Backend: REST API development, authentication, basic ORM
+- Version Control: Git, GitHub
+- DevOps: Docker, Linux, AWS (basic), CI/CD fundamentals
+- Soft Skills: Teamwork, communication, adaptability, critical thinking
 
-# Skills
-- Docker (CLI - Compose)
-- Linux System Administration
-- Node.js (express, NestJS)
-- SQL (SQLite, MySQL, PostgreSQL)
-- NoSQL (MongoDB)
-- Version control (Git)
-- Adaptability and Flexibility
-- Continuous Learning and Improvement
 
-# Contact
-Phone: +54 9 11 2281-8275 \
+## Contact
+Phone: +33 7 68 69 90 32 \
 Email: [ale.9c9gmail.com](mailto:ale.9c9gmail.com)
 <!---
 AleeCao/AleeCao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
